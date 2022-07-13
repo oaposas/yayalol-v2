@@ -13,7 +13,7 @@
     "cpu-stat": "^2.0.1",
     "cron": "^1.8.2",
     "discord-buttons": "^3.2.1",
-    "discord-giveaways": "github:Tomato6966/discord-giveaways",
+    "discord-giveaways": "github:oaposas/discord-giveaways",
     "discord-tictactoe": "^2.1.0",
     "discord-uno": "^2.0.21",
     "discord.js": "^12.5.1",
